@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2e28aede29eba7bcdbc4",
+    "revision": "f6e9230cd95f0c760e11",
     "url": "/portfolio_page/static/css/main.a1b1456e.chunk.css"
   },
   {
-    "revision": "2e28aede29eba7bcdbc4",
-    "url": "/portfolio_page/static/js/main.2e28aede.chunk.js"
+    "revision": "f6e9230cd95f0c760e11",
+    "url": "/portfolio_page/static/js/main.f6e9230c.chunk.js"
   },
   {
     "revision": "c1a590f322f980f17ca8",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/portfolio_page/static/media/TomatoSoup-Regular.d0b26cd9.otf"
   },
   {
-    "revision": "1c9a6a3f4d207f6cc49a1f72c215820c",
+    "revision": "651892e471302490aa4593ebb175e249",
     "url": "/portfolio_page/index.html"
   }
 ];
